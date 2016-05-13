@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./registrumepisto01martgoog_0009.png"; bbox 0 0 5375 6359; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 985 3077 1593 3087">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 985 3077 1593 3087">
+     <span class='ocr_line' id='line_1_1' title="bbox 985 3077 1593 3087; baseline 0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 985 3077 1593 3087; x_wconf 44' lang='lat' dir='ltr'><strong>-Q--m———u—u—</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 824 3204 1784 3506">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 824 3204 1784 3506">
+     <span class='ocr_line' id='line_1_2' title="bbox 875 3204 1725 3298; baseline -0.001 -1"><span class='ocrx_word' id='word_1_2' title='bbox 875 3204 1247 3297; x_wconf 76' lang='lat' dir='ltr'>REGIS&#39;PRUM</span> <span class='ocrx_word' id='word_1_3' title='bbox 1278 3205 1725 3298; x_wconf 83' lang='lat' dir='ltr'><strong>EPISTOLARUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 824 3413 1784 3506; baseline 0.001 -2"><span class='ocrx_word' id='word_1_4' title='bbox 824 3413 1090 3504; x_wconf 83' lang='lat' dir='ltr'>FRATRIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1121 3414 1441 3506; x_wconf 82' lang='lat' dir='ltr'>JOHANNIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 1474 3414 1784 3506; x_wconf 85' lang='lat' dir='ltr'><strong>PECKHAM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 772 3630 1833 3753">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 772 3630 1833 3753">
+     <span class='ocr_line' id='line_1_4' title="bbox 772 3630 1833 3753; baseline 0 -29"><span class='ocrx_word' id='word_1_7' title='bbox 772 3630 1264 3753; x_wconf 33' lang='lat' dir='ltr'>ARCHIEPIS&#39;COPI</span> <span class='ocrx_word' id='word_1_8' title='bbox 1301 3631 1833 3725; x_wconf 83' lang='lat' dir='ltr'><strong>CANTUARIENSIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1009 3868 1614 3881">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1009 3868 1614 3881">
+     <span class='ocr_line' id='line_1_5' title="bbox 1009 3868 1614 3881; baseline -0.002 0"><span class='ocrx_word' id='word_1_9' title='bbox 1009 3868 1215 3881; x_wconf 62' lang='lat'><strong>.---—--—.-·—</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1237 3873 1393 3880; x_wconf 79' lang='lat'><strong><em>--·¹-—·-·</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1500 3873 1614 3880; x_wconf 73' lang='lat'><em>———-—-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2692 6356">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2692 6356">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2692 6356; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2692 6356; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
